@@ -1,0 +1,12 @@
+{
+    "name": "image-resizer",
+    "productName": "image-resizer",
+    "version": "1.0.0",
+    "description": "Image resizer app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Rahul Chakraborty",
+    "license": "MIT"
+}
