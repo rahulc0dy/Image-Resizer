@@ -8,5 +8,10 @@
         "start": "electron ."
     },
     "author": "Rahul Chakraborty",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^27.0.3",
+        "resize-img": "^2.0.0",
+        "toastify-js": "^1.12.0"
+    }
 }
